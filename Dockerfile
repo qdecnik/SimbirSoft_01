@@ -1,4 +1,5 @@
 FROM ubuntu:18.04
+
 # Переключаем Ubuntu в неинтерактивный режим — чтобы избежать лишних запросов
 ENV DEBIAN_FRONTEND noninteractive
 
